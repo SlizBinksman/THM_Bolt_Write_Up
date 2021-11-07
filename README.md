@@ -78,7 +78,7 @@ When we get our results from searchsploit, we can see that there is an authentic
 
 Once we have a command shell on the target system, we can see that we are running as root! Our shell lives in the public files directory because that is where it was saved after the token was renamed to contain our file extention to execute the payload hidden inside!
 
-An interesting tidbit of inforamtion!
+An interesting tidbit of information!
 
 ![image](https://user-images.githubusercontent.com/90923369/140658173-07f1fdf7-5f36-43f5-8a41-100b7a8b8cc5.png)
 
